@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+groq
+dotenv
+openai
+langchain-community
+faiss-cpu
+streamlit
+sounddevice
+scipy

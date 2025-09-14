@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "What is the recommended seed treatment for bajra before sowing in drought-prone areas of Rajasthan?",
+    "answer": "Treat bajra seed with Thiram at 2 g per kg of seed to control seed-borne fungi and improve germination under drought-prone conditions. Ensure uniform coating and allow treated seed to dry before sowing.",
+    "region": "Rajasthan",
+    "topic": "Seed treatment / Millet"
+  },
+  {
+    "id": 2,
+    "question": "How should turmeric be cultivated in waterlogged fields in Kerala?",
+    "answer": "Grow turmeric on raised beds with good ridge drainage to avoid waterlogging. Incorporate well-decomposed organic manure, maintain shallow furrows for drainage, and use shade nets in very wet periods. Avoid continuous waterlogging to reduce rhizome rot.",
+    "region": "Kerala",
+    "topic": "Turmeric / Waterlogging"
+  },
+  {
+    "id": 3,
+    "question": "What is the best fertilizer schedule for sugarcane in saline soils in Gujarat?",
+    "answer": "Apply gypsum (2–3 t/ha) as a soil amendment before planting to ameliorate sodicity. Use split NPK doses based on soil test—apply phosphorus and potassium at planting, and divide nitrogen into 3–4 splits across the season. Monitor EC and follow soil test recommendations to avoid salt-induced nutrient imbalance.",
+    "region": "Gujarat",
+    "topic": "Sugarcane / Saline soils"
+  },
+  {
+    "id": 4,
+    "question": "Which paddy variety is recommended for late sowing in flood-affected districts of Assam?",
+    "answer": "Use submergence-tolerant varieties such as Swarna-Sub1 (and other Sub1 lines) which can tolerate complete submergence for about 10–14 days and are suitable for flood-prone, late-sown situations in Assam.",
+    "region": "Assam",
+    "topic": "Paddy / Flood tolerance"
+  },
+  {
+    "id": 5,
+    "question": "How can farmers in Bundelkhand manage soil erosion during monsoon?",
+    "answer": "Adopt contour bunding, grassed waterways, mulching and cover crops (e.g., cowpea or pigeon pea) on slopes. Terracing or staggered stone bunds, minimal tillage and check dams in gullies also reduce runoff and topsoil loss during heavy monsoon showers.",
+    "region": "Bundelkhand",
+    "topic": "Soil conservation"
+  },
+  {
+    "id": 6,
+    "question": "What is the safe method to control stem borer infestation in transplanted rice in coastal Odisha?",
+    "answer": "Deploy pheromone traps (around 4–6 per ha) for monitoring and use targeted sprays when threshold is crossed; apply Chlorantraniliprole (follow label dose, e.g., 0.4 ml per liter) at early infestation. Combine with cultural practices like removing infested stubbles and synchronous planting.",
+    "region": "Coastal Odisha",
+    "topic": "Pest management / Rice"
+  },
+  {
+    "id": 7,
+    "question": "How to manage blast disease in finger millet (ragi) in high-humidity regions of Karnataka?",
+    "answer": "Improve spacing for airflow, remove infected residues, and apply Tricyclazole as per label (timing at first symptoms). Use resistant varieties where available and avoid excessive nitrogen that increases susceptibility.",
+    "region": "Karnataka",
+    "topic": "Disease management / Finger millet"
+  },
+  {
+    "id": 8,
+    "question": "Which bio-pesticide is suitable for managing aphids in mustard crops in Haryana?",
+    "answer": "Neem-based formulations containing azadirachtin (follow product label; e.g., 5 ml per liter for many formulations) or neem oil sprays can suppress aphid populations while conserving beneficial predators. Release or conserve natural enemies as part of IPM.",
+    "region": "Haryana",
+    "topic": "Biopesticide / Mustard"
+  },
+  {
+    "id": 9,
+    "question": "How to prevent leaf spot disease in groundnut during post-monsoon in Maharashtra?",
+    "answer": "Ensure good field sanitation and drainage; at first sign of leaf spotting apply a protectant fungicide like Mancozeb as per label rate (commonly 2 g per liter) and continue sprays on a schedule if disease pressure persists. Rotate fungicide modes of action to prevent resistance.",
+    "region": "Maharashtra",
+    "topic": "Disease management / Groundnut"
+  },
+  {
+    "id": 10,
+    "question": "What integrated pest management practices are effective against fruit borers in brinjal grown in Madhya Pradesh?",
+    "answer": "Use light/pheromone traps and cultural controls (remove and destroy infested fruits), apply neem seed kernel extract or Bt where appropriate, and use selective chemical insecticides like Spinosad (follow label rates, e.g., ~0.3 ml per liter depending on formulation) only when thresholds are exceeded to preserve natural enemies.",
+    "region": "Madhya Pradesh",
+    "topic": "IPM / Brinjal"
+  },
+  {
+    "id": 11,
+    "question": "How can farmers in semi-arid Telangana optimize drip irrigation for cotton?",
+    "answer": "Schedule irrigation using soil moisture monitoring or tensiometers; provide frequent small doses during peak demand (flowering and boll formation). Maintain emitter spacing and filtration to prevent clogging; apply fertilizer through fertigation following soil test and crop stage needs.",
+    "region": "Telangana",
+    "topic": "Irrigation / Cotton"
+  },
+  {
+    "id": 12,
+    "question": "What is the best time to irrigate chickpea in rainfed areas of Maharashtra?",
+    "answer": "If supplemental irrigation is available, irrigate at flowering and pod development stages when rainfall is insufficient; apply around 40–60 mm per irrigation depending on soil moisture to support pod set without wasting water.",
+    "region": "Maharashtra",
+    "topic": "Irrigation / Pulses"
+  },
+  {
+    "id": 13,
+    "question": "How can mulching be used to reduce evaporation in vegetable crops in hot climates of Andhra Pradesh?",
+    "answer": "Apply organic mulch (straw or sugarcane trash) 5–7 cm thick around plants to conserve soil moisture, suppress weeds and moderate soil temperature. Combine with drip irrigation to maximize water efficiency.",
+    "region": "Andhra Pradesh",
+    "topic": "Mulching / Vegetables"
+  },
+  {
+    "id": 14,
+    "question": "What are the recommended irrigation practices for ginger in hilly areas of Himachal Pradesh?",
+    "answer": "Use furrow or basin irrigation with moderate frequency (approximately once a week depending on rainfall) supplying around 50–60 mm per irrigation during active growth. Ensure well-drained raised beds and avoid water stagnation to prevent rhizome rot.",
+    "region": "Himachal Pradesh",
+    "topic": "Irrigation / Ginger"
+  },
+  {
+    "id": 15,
+    "question": "How to manage saline irrigation water while cultivating wheat in Punjab?",
+    "answer": "Apply gypsum based on soil test to reclaim sodic patches, use good quality (lower EC) water for the first irrigations if possible, practice proper drainage, and use salt-tolerant varieties or adjust sowing dates to reduce evapotranspiration stress. Monitor soil EC periodically.",
+    "region": "Punjab",
+    "topic": "Salinity management / Wheat"
+  },
+  {
+    "id": 16,
+    "question": "What is the balanced fertilization for maize grown after paddy in West Bengal?",
+    "answer": "A typical recommendation is around 120:60:40 kg/ha N:P:K split across basal, knee-high and pre-tassel applications. Adjust rates based on a recent soil test and consider localized micronutrient supplementation if deficiencies are known.",
+    "region": "West Bengal",
+    "topic": "Nutrient management / Maize"
+  },
+  {
+    "id": 17,
+    "question": "How should farmers correct micronutrient deficiencies in banana plantations in Kerala?",
+    "answer": "Perform leaf/tissue tests to confirm deficiencies. Common corrections include foliar sprays of 0.5% magnesium sulfate for Mg and 0.5% zinc sulfate for Zn at early growth stages; also apply balanced organic matter and follow soil/tissue test advice for repeat applications.",
+    "region": "Kerala",
+    "topic": "Micronutrients / Banana"
+  },
+  {
+    "id": 18,
+    "question": "What organic amendments can be used in vegetable farming in the arid regions of Rajasthan?",
+    "answer": "Incorporate farmyard manure (around 8–12 t/ha), green manures like sunn hemp, composted crop residues and biochar where available to improve water holding capacity and soil organic matter. Use gypsum if needed to improve structure in alkaline soils.",
+    "region": "Rajasthan",
+    "topic": "Organic amendments / Vegetables"
+  },
+  {
+    "id": 19,
+    "question": "How to address boron deficiency in cauliflower grown in Uttar Pradesh?",
+    "answer": "Apply a foliar spray of borax at 0.2% (2 g per liter) at key growth stages such as head formation; concurrently correct soil pH and organic matter levels to improve boron availability. Follow local extension recommendations for specific timing and repeats.",
+    "region": "Uttar Pradesh",
+    "topic": "Micronutrients / Cauliflower"
+  },
+  {
+    "id": 20,
+    "question": "What are the signs of potassium deficiency in sugarcane in coastal Andhra Pradesh?",
+    "answer": "Watch for yellowing or scorching of lower leaf margins (marginal chlorosis), weak stems, reduced internode elongation and poorer root development. Confirm via tissue/soil testing and apply potash (K2O) as per soil test recommendations.",
+    "region": "Coastal Andhra Pradesh",
+    "topic": "Nutrient deficiency / Sugarcane"
+  },
+  {
+    "id": 21,
+    "question": "How should harvested paddy be stored in coastal Odisha to prevent moisture damage?",
+    "answer": "Dry paddy to below 14% moisture before storage using sun-drying or mechanical dryers. Store in well-ventilated, raised platforms or ventilated bins, line storage with polythene if needed to avoid ground moisture, and monitor moisture periodically.",
+    "region": "Coastal Odisha",
+    "topic": "Post-harvest / Paddy storage"
+  },
+  {
+    "id": 22,
+    "question": "What is the recommended method to store turmeric in humid regions like Kerala?",
+    "answer": "Dry turmeric to below ~12% moisture, sort and clean rhizomes, store in moisture-proof containers in a cool, ventilated area. Use desiccants or raised racks and fumigate with approved agents if pest pressure exists to prevent fungal attack.",
+    "region": "Kerala",
+    "topic": "Post-harvest / Turmeric"
+  },
+  {
+    "id": 23,
+    "question": "How to store groundnut in metal bins to prevent aflatoxin contamination in Tamil Nadu?",
+    "answer": "Dry groundnuts to below 9% moisture, clean and remove broken pods, and store in sealed metal bins with periodic aeration. Keep storage areas clean, control humidity and inspect regularly; timely drying after harvest is critical to prevent aflatoxin.",
+    "region": "Tamil Nadu",
+    "topic": "Post-harvest / Groundnut"
+  },
+  {
+    "id": 24,
+    "question": "What is the shelf-life of onions stored in mesh bags under controlled environments in Maharashtra?",
+    "answer": "Under controlled ventilation and temperatures around 20–25°C with good airflow, well-cured onions in mesh bags can be stored for about 4–5 months with minimal spoilage. Keep humidity moderate and avoid damaged bulbs.",
+    "region": "Maharashtra",
+    "topic": "Post-harvest / Onions"
+  },
+  {
+    "id": 25,
+    "question": "How to store potato tubers post-harvest in high-humidity regions like West Bengal?",
+    "answer": "Cure tubers for 7–10 days at 15–20°C to heal wounds, then store in ventilated, shaded storage with good air movement. Avoid stacking too deep to prevent pressure damage and maintain temperatures to slow sprouting and rot.",
+    "region": "West Bengal",
+    "topic": "Post-harvest / Potato"
+  },
+  {
+    "id": 26,
+    "question": "What are the eligibility criteria for PM-KISAN benefits for tenant farmers in Bihar?",
+    "answer": "Tenant farmers may be eligible if they have a valid cultivation agreement or land records recognized by local revenue authorities and meet scheme-specific documentation requirements; local state procedures can vary, so provide revenue documents and evidence of cultivation to the local block office for verification.",
+    "region": "Bihar",
+    "topic": "Government scheme / PM-KISAN"
+  },
+  {
+    "id": 27,
+    "question": "How can women self-help groups in Odisha access subsidies for organic farming?",
+    "answer": "SHGs can apply through NRLM/Deendayal Antyodaya Mission channels by registering the group, preparing a project proposal for organic farming, and submitting required documents to the district nodal office to access scheme-linked subsidies and input support.",
+    "region": "Odisha",
+    "topic": "Government support / Organic farming"
+  },
+  {
+    "id": 28,
+    "question": "What insurance coverage is available for hail damage in apple orchards in Himachal Pradesh?",
+    "answer": "Hail damage is typically covered under Pradhan Mantri Fasal Bima Yojana (PMFBY) where applicable; affected orchards are assessed by authorised survey teams and compensation is provided based on assessed damage and scheme norms—farmers should register and maintain required records and notify authorities promptly after damage.",
+    "region": "Himachal Pradesh",
+    "topic": "Insurance / Orchard crops"
+  },
+  {
+    "id": 29,
+    "question": "How can farmers in Madhya Pradesh access soil testing facilities?",
+    "answer": "Farmers can visit nearby Krishi Vigyan Kendras (KVKs), block-level soil testing labs, or use mobile soil testing vans provided by the state agriculture department. Registration or sample submission procedures are available at KVKs and local extension offices; results include fertilizer recommendations.",
+    "region": "Madhya Pradesh",
+    "topic": "Extension services / Soil testing"
+  },
+  {
+    "id": 30,
+    "question": "What training programs are available for mushroom cultivation in Uttarakhand?",
+    "answer": "State Horticulture Departments and local KVKs run seasonal hands-on training on spawn production, bed preparation, environmental control and pest management. Check the local KVK or horticulture extension calendar for upcoming sessions and registration procedures.",
+    "region": "Uttarakhand",
+    "topic": "Training / Mushroom cultivation"
+  }
+]
