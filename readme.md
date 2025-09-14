@@ -197,6 +197,6 @@ This project is released under the **MIT License**. See [LICENSE](LICENSE) for d
 
 ### Contact / Support
 
-If you have questions or need help, open an issue or reach out at: `adarsh@example.com` (replace with your preferred contact).
+If you have questions or need help, open an issue or reach out at: `adrs3342@gmail.com` (replace with your preferred contact).
 
 <p align="center">Made with ❤️ — <strong>AgroAI</strong></p>
